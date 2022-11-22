@@ -1,0 +1,26 @@
+name : Jeevitha
+age : 32
+address : "country : India"
+active : true
+spouse :
+    name : Radhakrishnan
+    age : 38
+Child :
+    name : SooriyaPrakash
+    age : 1.7
+jsonObject : {name : Jeevitha, age : 32, spouse : {name : RadhaKrishnan, age : 38}, child: {name: SooriyaPrakash, age : 1.7}}
+array :
+    - item1
+    - item2
+    - {key: value}
+jsonArray : [item1, item2]
+objectsArray :
+    - key : value
+      key2 : value2
+    - key1 : value1
+      key2 : value2
+longText : |
+    jkhqow ,nkdiowejd  nskahdiwuhdw bkahdiod
+    nsihdiowjdi hjkajdilqjd kjhkjasdliawjd
+    kjasjdwjd hdkjdle ncksakl
+    masnklckslcksldk
